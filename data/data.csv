@@ -1,0 +1,29 @@
+ID Funcionario,Nome,Cargo,Departamento,Salário,Data da Contratação,Cargo Confiança
+10,Alec do Nascimento,Técnico,Jurídico,3000.0,16/03/2023,0
+20,Arthur Assis,Analista,Jurídico,5000.0,19/04/2020,0
+30,Caio Cesar,Técnico,Financeiro,3000.0,01/10/2021,0
+40,Daniel da Silva,Analista,Financeiro,5000.0,26/12/2022,0
+50,Davi de Oliveira,Analista,TI,5000.0,23/09/2022,0
+60,Gabriel Maia,Técnico,Financeiro,3000.0,19/12/2023,0
+70,Gabriel Cavalcante,Analista,TI,5000.0,09/05/2020,0
+80,Igor Cruz,Técnico,Financeiro,3000.0,14/01/2024,0
+90,João David Castro,Coodenador,TI,6000.0,07/01/2024,1
+100,João Miguel da Silva,Gerente,Jurídico,7500.0,19/05/2021,1
+110,João Paulo de Abreu,CFO,Financeiro,15000.0,21/12/2021,1
+120,Jorge Henrique da Silva,Diretor,Financeiro,8500.0,12/01/2022,1
+130,Júlia Pereira Santos,Analista,Jurídico,5000.0,03/10/2020,0
+140,Karoline de Oliveira,Técnico,Jurídico,3000.0,15/03/2023,0
+150,Kauã Correia,Analista,Jurídico,5000.0,09/09/2020,0
+160,Kauan Torres,Técnico,TI,3000.0,03/09/2020,0
+170,Lara Pessanha,Analista,TI,5000.0,01/11/2021,0
+180,Laura Santos,Técnico,TI,3000.0,01/09/2022,0
+190,Lauro Andrade,CEO,Executivo,30000.0,04/08/2022,1
+200,Matheus da Silva,Analista,Financeiro,5000.0,22/03/2020,0
+210,Miguel Chaves,Técnico,Financeiro,3000.0,06/04/2022,0
+220,Nicollas Theodoro,Técnico,TI,3000.0,11/04/2022,0
+230,Pedro Henrique Santos,Técnico,TI,3000.0,04/06/2021,0
+240,Rayssa da Silva,Diretor,TI,8500.0,07/04/2021,1
+250,Rebeca Alves,Analista,TI,5000.0,29/11/2022,0
+260,Tábatha Tavares,Técnico,TI,3000.0,21/03/2021,0
+270,Vinicius Araujo,Analista,TI,5000.0,07/08/2023,0
+280,Yan Tavares,Técnico,TI,3000.0,16/06/2023,0
